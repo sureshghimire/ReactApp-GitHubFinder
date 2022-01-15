@@ -60,7 +60,7 @@ export const GithubProvider = ({children})=>{
     // const data = await response.json()
     //After destructuring data.items same as '{items}'
     const {items}= await response.json()
-    // console.log(items)
+    console.log(items)
     // console.log(response.url)
     
     dispatch({
