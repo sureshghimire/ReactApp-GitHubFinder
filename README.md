@@ -1,4 +1,4 @@
-# This React is Based on Traversy Media Tutorial
+# This React App is Based on Traversy Media Tutorial
 Link https://sg-githubfinder.herokuapp.com/
 
 # Getting Started with Create React App
